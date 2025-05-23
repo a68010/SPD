@@ -1,0 +1,54 @@
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | 
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | > autoscaler-service@1.0.0 start
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | > node src/index.js
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | 
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Autoscaler iniciado para kvstore_kv-node
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 3)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | → Ajustando réplicas para 2
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 2)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | → Ajustando réplicas para 1
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 99.3% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | → Ajustando réplicas para 2
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 49.7% (replicas: 2)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 49.8% (replicas: 2)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 49.4% (replicas: 2)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 49.7% (replicas: 2)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 2)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | → Ajustando réplicas para 1
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | Média CPU: 0.0% (replicas: 1)
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | npm error path /app
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | npm error command failed
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | npm error signal SIGTERM
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | npm error command sh -c node src/index.js
+kvstore_autoscaler.1.51hlwkp1n7rq@docker-desktop    | npm error A complete log of this run can be found in: /root/.npm/_logs/2025-05-22T21_27_28_185Z-debug-0.log

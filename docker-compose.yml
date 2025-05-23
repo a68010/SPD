@@ -1,0 +1,61 @@
+
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "status"]
+      interval: 10s
+      retries: 5
+
+  gateway:
+    build: ./gateway-service
+    depends_on:
+      rabbitmq:
+        condition: service_healthy
+    ports:
+      - "3000:3000"
+
+  kv-node-1:
+    build: ./kv-node-service
+    environment:
+      - NODE_ID=1
+    ports:
+      - "3001:3001"
+    depends_on:
+      - rabbitmq
+
+  kv-node-2:
+    build: ./kv-node-service
+    environment:
+      - NODE_ID=2
+    ports:
+      - "3002:3001"
+    depends_on:
+      - rabbitmq
+
+  kv-node-3:
+    build: ./kv-node-service
+    environment:
+      - NODE_ID=3
+    ports:
+      - "3003:3001"
+    depends_on:
+      - rabbitmq
+
+  replicator:
+    build: ./replicator-service
+    depends_on:
+      - rabbitmq
+    ports:
+      - "3002:3002"
+
+  health-monitor:
+    build: ./health-monitor
+    depends_on:
+      - rabbitmq
+    ports:
+      - "3003:3003"
